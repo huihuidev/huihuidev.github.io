@@ -3,17 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+title: HuiHui的博客
+subtitle: Android Develop
+description: 记录点点滴滴
+keywords: android java
+author: huihui
+language: zh-Hans
+email: zhuhuihuidev@gmail.com
 timezone:
+avatar: https://avatars2.githubusercontent.com/u/8224456?s=460&v=4
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://github.com/huihuidev
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -35,7 +37,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -73,7 +75,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,3 +83,7 @@ deploy:
   type: git
   repo: https://github.com/huihuidev/huihuidev.github.io.git
   branch: master
+
+search:
+    path: search.xml
+    field: post
