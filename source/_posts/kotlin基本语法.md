@@ -2,6 +2,7 @@
 title: kotlin基本语法
 date: 2018-09-11 15:00:58
 tags:	[kotlin]
+categories: [Kotlin]
 ---
 
 Kotlin是JetBrains推出项目，是一种在Java虚拟机上运行的静态类型编程语言，也可以被编译成为JavaScript源代码。在2011年7月推出之前，它已被开发一年之久。直到2016年2月15日，官方发布了第一个稳定的release版本 —— Kotlin v1.0
