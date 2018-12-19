@@ -1,7 +1,8 @@
 ---
 title: 'kotlin变量,常量,注释'
 date: 2018-12-19 11:39:23
-tags:
+tags: [kotlin]
+categories: [Kotlin]
 ---
 
 ## 定义变量,常量
